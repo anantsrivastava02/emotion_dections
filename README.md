@@ -108,6 +108,6 @@ We would like to acknowledge the following resources that were instrumental in t
 
 ## Contact
 
-For any inquiries or further information about this project, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or further information about this project, please contact [anantsrivastava02@gmail.com](mailto:your-anantsrivastava02.com).
 
 Happy emotion detecting!
